@@ -1,0 +1,27 @@
+﻿@model BusinessLayer.Model.Employee
+
+@{
+    ViewData["Title"] = "Create Employee";
+}
+
+<h2>Create Employee</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label asp-for="name"></label>
+        <input asp-for="name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="email"></label>
+        <input asp-for="email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="phone"></label>
+        <input asp-for="phone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="createAt"></label>
+        <input asp-for="createAt" class="form-control" type="datetime-local" />
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.Net\\CrudApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dao\\employeedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\idao\\iobjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\idao\\iobjectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\zapplayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\zapplayer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\repository\\hrepository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\hrepository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\repository\\iropesitory\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\repository\\iropesitory\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\dao\\persondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dao\\persondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\supporter\\sessionsupporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\supporter\\sessionsupporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|e:\\.net\\crudapp\\applayer\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CCD5FE00-F821-496D-8B89-C74CD2B53DBA}|AppLayer\\ZAppLayer.csproj|solutionrelative:applayer\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|e:\\.net\\crudapp\\datalayer\\dao\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8C51BC-534F-47A3-AEBA-4691326EB3F0}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dao\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IObjectDAO.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\IDAO\\IObjectDAO.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IDAO\\IObjectDAO.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\IDAO\\IObjectDAO.cs",
+              "RelativeToolTip": "DataLayer\\IDAO\\IObjectDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:53:01.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\AppDbContext.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\AppDbContext.cs",
+              "RelativeToolTip": "DataLayer\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:43:40.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "DataLayer\\appsettings.json",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\appsettings.json",
+              "RelativeToolTip": "DataLayer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T03:42:38.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ZAppLayer",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\ZAppLayer.csproj",
+              "RelativeDocumentMoniker": "AppLayer\\ZAppLayer.csproj",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\ZAppLayer.csproj",
+              "RelativeToolTip": "AppLayer\\ZAppLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T19:11:08.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Program.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Program.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Program.cs",
+              "RelativeToolTip": "AppLayer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:49:09.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionSupporter.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\Supporter\\SessionSupporter.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Supporter\\SessionSupporter.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\Supporter\\SessionSupporter.cs",
+              "RelativeToolTip": "DataLayer\\Supporter\\SessionSupporter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:25:20.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\DAO\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAO\\RoomDAO.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\DAO\\RoomDAO.cs",
+              "RelativeToolTip": "DataLayer\\DAO\\RoomDAO.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:58:53.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppLayer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppLayer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:55:25.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppLayer\\Views\\Person\\Index.cshtml",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "AppLayer\\Views\\Person\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T06:54:24.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\PersonController.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:53:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PersonDAO.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\DAO\\PersonDAO.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAO\\PersonDAO.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\DAO\\PersonDAO.cs",
+              "RelativeToolTip": "DataLayer\\DAO\\PersonDAO.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:51:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\Repository\\IRopesitory\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\IRopesitory\\IEmployeeRepository.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\Repository\\IRopesitory\\IEmployeeRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\IRopesitory\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:00:56.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\Repository\\HRepository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Repository\\HRepository\\EmployeeRepository.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\Repository\\HRepository\\EmployeeRepository.cs",
+              "RelativeToolTip": "DataLayer\\Repository\\HRepository\\EmployeeRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwBIAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:01:46.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppLayer\\Views\\Home\\Create.cshtml",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "AppLayer\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T15:01:40.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDao.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\DataLayer\\DAO\\EmployeeDao.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DAO\\EmployeeDao.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\DataLayer\\DAO\\EmployeeDao.cs",
+              "RelativeToolTip": "DataLayer\\DAO\\EmployeeDao.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:01:04.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AppLayer\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AppLayer\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T13:32:09.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\.Net\\CrudApp\\AppLayer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\.Net\\CrudApp\\AppLayer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:27:13.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

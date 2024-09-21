@@ -1,0 +1,37 @@
+﻿@model BusinessLayer.Model.Employee
+
+@{
+    ViewData["Title"] = "Update Employee";
+}
+
+<h2>Update Employee</h2>
+
+<form asp-action="Update" method="post">
+    <div class="form-group">
+        <label asp-for="name"></label>
+        <input asp-for="name" class="form-control" />
+        <span asp-validation-for="name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="email"></label>
+        <input asp-for="email" type="email" class="form-control" />
+        <span asp-validation-for="email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="phone"></label>
+        <input asp-for="phone" class="form-control" />
+        <span asp-validation-for="phone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="createAt"></label>
+        <input asp-for="createAt" class="form-control" type="datetime-local" />
+        <span asp-validation-for="createAt" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Update</button>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

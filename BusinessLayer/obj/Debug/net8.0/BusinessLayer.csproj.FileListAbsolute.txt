@@ -1,0 +1,11 @@
+E:\.Net\CrudApp\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+E:\.Net\CrudApp\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+E:\.Net\CrudApp\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+E:\.Net\CrudApp\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
